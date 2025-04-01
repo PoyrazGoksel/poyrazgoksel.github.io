@@ -1,3 +1,0 @@
-onmousedown = (event) => {
-    print("asdfg")
-}
