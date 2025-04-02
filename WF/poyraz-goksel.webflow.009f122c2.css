@@ -2247,7 +2247,7 @@ textarea.w-input, textarea.w-select {
   outline-offset: 0px;
   color: #e6e6e6;
   text-align: center;
-  background-image: url("https://cdn.prod.website-files.com/67ec2eb539bf731b4060c153/67ec2f9539bf731b40617859_ifBG.png");
+  background-image: url("IFBG VertSymm.png");
   background-position: 50% 0;
   background-size: cover;
   border: 0 #000;
@@ -2362,7 +2362,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .link-block-2 {
-  background-image: url("https://cdn.prod.website-files.com/67ec2eb539bf731b4060c153/67ec4c12a6a3b0c15472cbd1_appstorebut.png");
+  background-image: url("appstorebut.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2388,7 +2388,7 @@ textarea.w-input, textarea.w-select {
 
 .link-block-2-copy {
   mix-blend-mode: normal;
-  background-image: url("https://cdn.prod.website-files.com/67ec2eb539bf731b4060c153/67ec4c125c30105990e1b54d_googleplaybut.png");
+  background-image: url("googleplaybut.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2542,7 +2542,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: 'UltimaOnline';
-  src: url('https://cdn.prod.website-files.com/67ec2eb539bf731b4060c153/67ec3dc5eb0b34766fe17496_MorrisRomanBlack.ttf') format('truetype'), url('https://cdn.prod.website-files.com/67ec2eb539bf731b4060c153/67ec3dc59388ed0f28d1f6ad_MorrisRomanBlackAlt.ttf') format('truetype'), url('https://cdn.prod.website-files.com/67ec2eb539bf731b4060c153/67ec3dc56aa6ef056a32f8fc_MorrisRomanBlack.otf') format('opentype'), url('https://cdn.prod.website-files.com/67ec2eb539bf731b4060c153/67ec3dc54d3945ac8acd0c05_MorrisRomanBlackAlt.otf') format('opentype');
+  src: url('MorrisRomanBlack.ttf') format('truetype'), url('MorrisRomanBlackAlt.ttf') format('truetype'), url('MorrisRomanBlack.otf') format('opentype'), url('MorrisRomanBlackAlt.otf') format('opentype');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
