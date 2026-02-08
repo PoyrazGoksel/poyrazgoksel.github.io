@@ -2365,7 +2365,7 @@ textarea.w-input, textarea.w-select {
   background-repeat: no-repeat;
   background-size: contain;
   border-radius: 6px;
-  width: 100px;
+  width: 90px;
   height: 30px;
   box-shadow: 0 2px 5px #000;
 }
@@ -2391,7 +2391,7 @@ textarea.w-input, textarea.w-select {
   background-repeat: no-repeat;
   background-size: contain;
   border-radius: 5px;
-  width: 100px;
+  width: 101px;
   height: 30px;
   box-shadow: 0 2px 5px #000;
 }
